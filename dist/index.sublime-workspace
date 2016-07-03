@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_task",
+				"get_task_list"
+			],
+			[
+				"sele",
+				"selected_city_id"
+			],
+			[
+				"se",
+				"selected_city_id"
+			],
+			[
+				"s",
+				"source"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"escape",
+				"mysql_escape_string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 197.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"toggle",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/redux-tutorial/redux/src/index.js",
+		"/C/dev/redux-tutorial/redux/src/applyMiddleware.js",
+		"/C/dev/redux-tutorial/redux/src/compose.js",
+		"/C/dev/redux-tutorial/redux/src/bindActionCreators.js",
+		"/C/dev/redux-tutorial/redux/src/combineReducers.js",
+		"/C/dev/redux-tutorial/redux/src/createStore.js",
+		"/C/dev/dijkstra/dijkstra/input.txt",
+		"/C/dev/dijkstra/dijkstra/output.txt",
+		"/C/dev/dijkstra/input.txt",
+		"/C/dev/dijkstra/Debug/input.txt",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/db_get_cities_list.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/index.php",
+		"/C/Users/ephem/Downloads/Тестовое_задание_WEB Левин.txt",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/db_create_tables.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/js/script.js",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/db_get_user_data.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/edit.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/db_get_streets_list.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/db_get_users_data.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/edit_session.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/db_edit_user_data.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/db_connect.php",
+		"/C/Program Files (x86)/EasyPHP-Webserver-14.1b2/www/Kot/create_user_data.php",
+		"/C/Users/ephem/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ephem/Downloads/farpost_test_task/task2/js/main.js",
+		"/C/Users/ephem/Downloads/farpost_test_task/task2/mysql_dbconnect.php",
+		"/C/Users/ephem/Downloads/farpost_test_task/task2/createdb.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"7",
+			"phonebook-form__city-input",
+			",\n",
+			"updateStreetList",
+			"\"",
+			"getStreetsList",
+			"res_streets",
+			"cyty",
+			"ajax",
+			"Available",
+			"autoco",
+			"$value",
+			"});\n",
+			"done"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"db",
+				"db_create_tables.php"
+			],
+			[
+				"get",
+				"db_get_streets_list.php"
+			],
+			[
+				"index",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
