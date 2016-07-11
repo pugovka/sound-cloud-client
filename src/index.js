@@ -17,6 +17,6 @@ const store = configureStore();
 store.dispatch(actions.setTracks(tracks));
 
 ReactDOM.render(
-  <Stream tracks={tracks} />,
+  <Stream />,
   document.getElementById('app')
 );
