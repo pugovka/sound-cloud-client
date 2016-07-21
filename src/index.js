@@ -1,4 +1,4 @@
-//import SC from 'soundcloud';
+//import SC from 'soundcloud'; - doesn't work from a folder, replaced with url
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
@@ -23,6 +23,6 @@ ReactDOM.render(
         <Route path="/callback" component={Callback} />
       </Route>
     </Router>
-	</Provider>,
+  </Provider>,
   document.getElementById('app')
 );
